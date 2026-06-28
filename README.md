@@ -16,8 +16,7 @@ behavioral/
 
 modeling/
     Neural network models
-    Training and evaluation code
-    Representational analyses
+    Analyses
 
 fmri/
     preprocessing 
